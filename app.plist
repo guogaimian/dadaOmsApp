@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://192.168.113.208:8080/dadabaoApp/apptool/app/appversion/downIOSNew?businessAppType=3</string>
+                        <string>http://dadabaoapp.dadajt.com/dadabaoApp/apptool/app/appversion/downIOSNew?businessAppType=3</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.shstzz.yuyu5</string>
+                    <string>com.shstzz.yuyu8</string>
                     <key>bundle-version</key>
                     <string>1.1</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>大大办公</string>
+                    <string>大大经营</string>
                 </dict>
             </dict>
         </array>
